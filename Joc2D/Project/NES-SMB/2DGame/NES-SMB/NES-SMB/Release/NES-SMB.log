@@ -1,0 +1,51 @@
+﻿  AnimatedCoin.cpp
+  BlockSprite.cpp
+  Brick.cpp
+  Coin.cpp
+Coin.cpp(46): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  CreditScene.cpp
+  Flag.cpp
+  Game.cpp
+  GameScene.cpp
+  Goomba.cpp
+  InstructionScene.cpp
+  Koopa.cpp
+  main.cpp
+  MainScene.cpp
+  Mush.cpp
+  Particles.cpp
+Particles.cpp(39): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+Particles.cpp(45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Player.cpp
+  PlayScene.cpp
+  PointsSprite.cpp
+PointsSprite.cpp(59): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+PointsSprite.cpp(65): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  PowerUps.cpp
+  Question.cpp
+  Compilando...
+  Shader.cpp
+  ShaderProgram.cpp
+  Enemy.cpp
+  Sprite.cpp
+  Star.cpp
+  StaticIface.cpp
+  Text.cpp
+  Texture.cpp
+  TileMap.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(200): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  TileMap.cpp(456): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<int,float>::pair<int,int,void,0>(std::pair<int,int> &&) noexcept' que se está compilando
+  TileMap.cpp(456): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<int,float>::pair<int,int,void,0>(std::pair<int,int> &&) noexcept' que se está compilando
+SOIL.lib(SOIL.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  1504 of 1508 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_DXT.obj)' o en 'C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_helper.obj)' o en 'C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(SOIL.obj)' o en 'C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(stb_image_aug.obj)' o en 'C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  NES-SMB.vcxproj -> C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\NES-SMB.exe
+  NES-SMB.vcxproj -> C:\Users\Daniel\Desktop\Uni\VJ\Juego2D\Entrega\Project\NES-SMB\2DGame\NES-SMB\Release\NES-SMB.pdb (Full PDB)
