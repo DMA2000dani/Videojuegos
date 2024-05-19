@@ -8,3 +8,4 @@ del juego.
 El juego 3D está basado en el juego Orbital Bullet, con página en Steam https://store.steampowered.com/app/1167680/Orbital_Bullet__The_360_Roguelite/.
 Este está realizado con Unity y usando C#. Además, dispone de un vídeo de demostración y una memoria donde se recopila información del
 juego original, descripción de los elementos proyecto, la metodología utilizada y una breve conclusión.
+Haya 2 archivos que sobrepasan los 100 MB, así que no los he subido. Son el vídeo demo y sharedassets1.assets.resS
